@@ -8572,7 +8572,7 @@
 		"context": null,
 		"comment": "[Votekick] [Input Prompt] The full phrase is: '[F1] Vote yes'",
 		"locations": [],
-		"translation": "Äänestä kyllä",
+		"translation": "Äänestä true",
 		"machine": true
 	},
 	{
