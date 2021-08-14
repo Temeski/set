@@ -2057,7 +2057,7 @@
 	{
 		"phrase": "Checkout",
 		"comment": "[Store] [Button] Confirm buying from the store",
-		"translation": "Tarkista"
+		"translation": "Kassa"
 	},
 	{
 		"phrase": "Summary",
@@ -2067,7 +2067,7 @@
 	{
 		"phrase": "Creator Code (Optional)",
 		"comment": "[Store Checkout Popup] [Text Field] Enter a creator code here",
-		"translation": "Luojakoodi (valinnainen)"
+		"translation": "Sisällöntuottajan koodi  (valinnainen)"
 	},
 	{
 		"phrase": "Friend username",
@@ -2307,12 +2307,12 @@
 	{
 		"phrase": "Blocks built",
 		"comment": "[Victory Screen] Amount of blocks you placed, e.g. 'Blocks built: 800'",
-		"translation": "Lohkot rakennettu"
+		"translation": "Kuutiot rakennettu"
 	},
 	{
 		"phrase": "Blocks destroyed",
 		"comment": "[Victory Screen] Amount of blocks you destroyed, e.g. 'Blocks built: 1400'",
-		"translation": "Lohkot tuhottu"
+		"translation": "Kuutiot tuhottu"
 	},
 	{
 		"phrase": "Proton breakdown",
@@ -2347,7 +2347,7 @@
 	{
 		"phrase": "Use token",
 		"comment": "[Store] [Button] Use a character token to unlock a character",
-		"translation": "Käytä tunnusta"
+		"translation": "Käytä poletti"
 	},
 	{
 		"phrase": "This is a gift",
@@ -2367,12 +2367,12 @@
 	{
 		"phrase": "Store",
 		"comment": "[Store Screen] [Title]",
-		"translation": "Säilytä"
+		"translation": "Kauppa"
 	},
 	{
 		"phrase": "Play",
 		"comment": "[Navigation] Change to the Play screen",
-		"translation": "pelata"
+		"translation": "pelaa"
 	},
 	{
 		"phrase": "Clan",
@@ -2397,7 +2397,7 @@
 	{
 		"phrase": "Blocks",
 		"comment": "[Customise] [Navigation] Blocks tab",
-		"translation": "Lohkot"
+		"translation": "Kuutioitten kohdalle"
 	},
 	{
 		"phrase": "Changelog",
@@ -2407,7 +2407,7 @@
 	{
 		"phrase": "Trials",
 		"comment": "[Play Screen] [Navigation] Trials tab",
-		"translation": "Kokeet"
+		"translation": "Aikajo"
 	},
 	{
 		"phrase": "Low level",
@@ -2965,12 +2965,12 @@
 	{
 		"phrase": "Trial Master",
 		"comment": "[Killcam Tag] [Trials] Reached all Gold times in the trials",
-		"translation": "Oikeudenkäynnin mestari"
+		"translation": "Aikajojen mestari"
 	},
 	{
 		"phrase": "Trial Hard",
 		"comment": "[Killcam Tag] [Trials] Reached all Bronze times in the trials. This one is a word play on 'Try Hard', feel free to translate this into something more serious or keep it as a meme",
-		"translation": "Koe kova"
+		"translation": "Hikinen pelaaja"
 	},
 	{
 		"phrase": "Podium",
@@ -4010,7 +4010,7 @@
 	{
 		"phrase": "Store Tab",
 		"comment": "[Keybind] Change to the Store screen",
-		"translation": "Store -välilehti"
+		"translation": "Kauppa -välilehti"
 	},
 	{
 		"phrase": "Career Tab",
@@ -4060,7 +4060,7 @@
 	{
 		"phrase": "Open Trial Window",
 		"comment": "[Keybind]",
-		"translation": "Avaa kokeiluikkuna"
+		"translation": "Avaa koeajo -ikkuna"
 	},
 	{
 		"phrase": "Restart Trial",
@@ -4166,7 +4166,7 @@
 		"phrase": "Blocks",
 		"context": "Cubes",
 		"comment": "A 3d voxel",
-		"translation": "Lohkot"
+		"translation": "Kuutio"
 	},
 	{
 		"phrase": "Animated block skins must be enabled for animated block skins to render correctly",
@@ -4312,7 +4312,7 @@
 		"phrase": "Blocks",
 		"context": "Voxels",
 		"comment": "[Unit] 3D voxels",
-		"translation": "Lohkot"
+		"translation": "Kuutio"
 	},
 	{
 		"phrase": "Player Nameplates",
@@ -4578,8 +4578,8 @@
 		"phrase": "Open",
 		"context": "Public",
 		"comment": "[Play Screen] [Navigation] Public lobbies tab",
-		"translation": "Avata"
-	},
+		"translation": "Julkiset serverit"
+	},  
 	{
 		"phrase": "England",
 		"comment": "[Server List] [Filter]",
@@ -4740,7 +4740,7 @@
 		"phrase": "Enter Trials",
 		"context": "Enter the Trials",
 		"comment": "[Input Prompt] This text shows when looking at the trial panel in the ship. The full phrase is '[T] Enter Trials'",
-		"translation": "Anna kokeiluja"
+		"translation": "Aloita koeajo"
 	},
 	{
 		"phrase": "Replay Tutorial",
@@ -4757,7 +4757,7 @@
 	{
 		"phrase": "e.g. apples",
 		"comment": "[Store] [Text Field] Placeholder text for the Creator Code text field",
-		"translation": "esim omenoita"
+		"translation": "Esim. omenoita"
 	},
 	{
 		"phrase": "An update is available. Close the game and update the game through Steam",
@@ -4921,7 +4921,7 @@
 	{
 		"phrase": "Blocks placed",
 		"comment": "[Killcam Tag] [Tag Description] The full phrase is: '10000 Blocks placed'",
-		"translation": "Lohkot sijoitettu"
+		"translation": "Kuutioita asetettu"
 	},
 	{
 		"phrase": "Spot assists",
@@ -5341,7 +5341,7 @@
 	{
 		"phrase": "Incomplete",
 		"comment": "[Trials] This text shows when you haven't completed this trial yet",
-		"translation": "Epätäydellinen"
+		"translation": "Suorittamatta"
 	},
 	{
 		"phrase": "Leaderboard",
@@ -5351,12 +5351,12 @@
 	{
 		"phrase": "Restart",
 		"comment": "[Trials] [Button] Click this button to restart the trial",
-		"translation": "Uudelleenkäynnistää"
+		"translation": "Kokeile uudestaan"
 	},
 	{
 		"phrase": "Trials list",
 		"comment": "[Trials] [Button] Click this button to leave the trial and view the Trials list",
-		"translation": "Kokeiluluettelo"
+		"translation": "Koeajo lista"
 	},
 	{
 		"phrase": "Trial",
@@ -5426,7 +5426,7 @@
 	{
 		"phrase": "Practice your building and digging skills in the Trials!\nComplete each trial within the specified time to earn Protons and kill cam Titles.\nReach the ",
 		"comment": "[Trial Instructions] [1\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
-		"translation": "Harjoittele rakennus- ja kaivaustaitojasi kokeissa!\nSuorita jokainen kokeilu määrätyn ajan kuluessa ansaitaksesi protoneja ja tappaa nokan otsikot.\nSaavuttaa "
+		"translation": "Harjoittele rakennus- ja kaivaustaitojasi koeajoissa!\nSuorita jokainen koeajo määrätyn ajan kuluessa ansaitaksesi protoneja ja kill cam titteleitä.\nSaavuttaa "
 	},
 	{
 		"phrase": "Yellow",
@@ -5436,22 +5436,22 @@
 	{
 		"phrase": "Platform to win, avoid touching the",
 		"comment": "[Trial Instructions] [3\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
-		"translation": "Alusta voittaa, älä kosketa"
+		"translation": "Alusta voittaaksesi, älä kosketa"
 	},
 	{
 		"phrase": "Red",
 		"comment": "[Trial Instructions] [4\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
-		"translation": "Punainen"
+		"translation": "Punaisia"
 	},
 	{
 		"phrase": "Blocks and build off the",
 		"comment": "[Trial Instructions] [5\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
-		"translation": "Estää ja rakentaa pois"
+		"translation": "Kuutioita ja rakenna"
 	},
 	{
 		"phrase": "Purple",
 		"comment": "[Trial Instructions] [6\/7] The full phrase is: Practice your building and digging skills in the Trials!\\nComplete each trial within the specified time to earn Protons and kill cam Titles.\\nReach the yellow platform to win, avoid touching the red blocks and build off the purple blocks.",
-		"translation": "Violetti"
+		"translation": "Violettien"
 	},
 	{
 		"phrase": "Leaderboards are updated every 30 seconds.",
@@ -5745,7 +5745,7 @@
 		"phrase": "Blocks per dig",
 		"context": "Blocks collected per dig",
 		"comment": "[Loadouts] Loadout characteristic",
-		"translation": "Lohkoja kaivaa kohden",
+		"translation": "Kuutio per kaivuu",
 		"machine": true
 	},
 	{
@@ -5909,8 +5909,8 @@
 	{
 		"phrase": "bps",
 		"comment": "[Unit] [Abbreviation] Abbreviation of 'Blocks Per Second', which is how many blocks a projectile travels every second. If an abbreviation is not available, please translate the full phrase",
-		"translation": "bps",
-		"machine": true
+		"translation": "Kps",
+		
 	},
 	{
 		"phrase": "Detection Radius",
@@ -7575,8 +7575,8 @@
 	{
 		"phrase": "Enter a Creator Code on checkout to save 10% and support a content creator.\nClick here for more info!\nThis promotion ends in",
 		"comment": "[Store Screen]",
-		"translation": "Kirjoita luojakoodi kassalla säästääksesi 10% ja tukeaksesi sisällön luojaa.\nNapsauta tätä saadaksesi lisätietoja!\nTämä kampanja päättyy",
-		"machine": true
+		"translation": "Kirjoita Sisällöntuottajan koodi kassalla säästääksesi 10% ja tukeaksesi sisällöntuottajaa.\nNapsauta tätä saadaksesi lisätietoja!\nTämä kampanja päättyy",
+		
 	},
 	{
 		"phrase": "ADS colour",
